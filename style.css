@@ -8,10 +8,9 @@ body {
     height: 700px;
     margin: 0;
 }
-
 button {
     background-color: white;
-    color: purple;
+    color: blue;
     font-family: "Bai Jamjuree", sans-serif;
 }
 
